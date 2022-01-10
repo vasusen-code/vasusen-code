@@ -9,9 +9,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p 
+#Languages and Tools:
 -Heroku
 -MongoDB
 -Python
-</a></p>
+-Telethon
+
+
