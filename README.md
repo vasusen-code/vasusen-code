@@ -8,3 +8,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
+
+<h3 align="left">Languages and Tools:</h3>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img 
