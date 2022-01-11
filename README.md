@@ -1,5 +1,5 @@
-![](https://github.com/vasusen-code/vasusen-code/blob/main/images/vasusen.gif)
-  
+![](./images/vasusen.gif)
+
 <h1 align="center">
   <b>ᴍᴀᴀʜɪ</b>
 </h1>
