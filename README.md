@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./images/vasusen.gif" alt="poster">
+  <img src="https://github.com/vasusen-code/vasusen-code/blob/main/images/vasusen.gif" alt="poster">
 </p>
   
 <h1 align="center">
