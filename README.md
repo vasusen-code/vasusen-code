@@ -1,7 +1,7 @@
 # Hey there, Maahi here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="Vasusen" /> </p>
 
-<p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge" width="150""/></a></p>
+<p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge" width="100""/></a></p>
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=vasusen-code&theme=dracula" alt="maahi" /></p>
 
