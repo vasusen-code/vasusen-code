@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/VID_20220111_201603_165.mp4" alt="vasusen clip">
-</p>
+[![vasusen-code](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/_F1AhNZIykU)
 
 <h1 align="center">
   <b>ᴍᴀᴀʜɪ</b>
