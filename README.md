@@ -1,4 +1,4 @@
-[![vasusen-code](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/watch?v=_F1AhNZIykU)
+<video src='https://youtu.be/_F1AhNZIykU' width=180/>
 
 <h1 align="center">
   <b>ᴍᴀᴀʜɪ</b>
