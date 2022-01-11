@@ -6,9 +6,9 @@
 
 <p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge" width="100""/></a></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=vasusen-code&theme=midnight-purple" alt="maahi" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=vasusen-code&theme=dracula" alt="maahi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=dracula&locale=en" alt="vasusen-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
 # Languages and Tools:
 
