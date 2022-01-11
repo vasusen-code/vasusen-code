@@ -8,7 +8,7 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=vasusen-code&theme=midnight-purple" alt="maahi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=tokyo-night&locale=en" alt="vasusen-code" /></p>
 
 # Languages and Tools:
 
