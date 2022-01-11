@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/vasusen-code/vasusen-code/blob/main/images/vasusen.gif" alt="poster">
-</p>
+![](https://github.com/vasusen-code/vasusen-code/blob/main/images/vasusen.gif)
   
 <h1 align="center">
   <b>ᴍᴀᴀʜɪ</b>
