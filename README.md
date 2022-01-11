@@ -15,18 +15,19 @@
 <p><a 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" width="100""/>
 <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" width="100""/>
+<img src="https://img.shields.io/badge/Railway-grey?style=for-the-badge&logo=railway" width="100""/>
 <img src="https://img.shields.io/badge/Telethon-gold?style=for-the-badge&logo=telethon" width="100""/>
 <img src="https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku" width="100""/>
 <img src="https://img.shields.io/badge/Railway-grey?style=for-the-badge&logo=railway" width="100""/>
-<img src="https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=cloud" width="100""/>
-<img src="https://img.shields.io/badge/CloudSigma-darkred?style=for-the-badge&logo=cloud" width="100""/>
 </a></p>
 <p><a
+<img src="https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=cloud" width="100""/>
+<img src="https://img.shields.io/badge/CloudSigma-darkred?style=for-the-badge&logo=cloud" width="100""/>
 <img src="https://img.shields.io/badge/GitHubActions-darkblue?style=for-the-badge&logo=githubactions" width="100""/>
 <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu" width="100""/>
 <img src="https://img.shields.io/badge/Oracle-brown?style=for-the-badge&logo=oracle" width="100""/>
 <img src="https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=termux" width="100""/>                       </a></p>                           
-                   28 
+                  
 
   
   
