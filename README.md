@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ᴍᴀʜᴇѕʜ ᴄʜᴀᴜʜᴀɴ</b>
+  <b>ᴍᴀᴀʜɪ</b>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="Vasusen" /> </p>
