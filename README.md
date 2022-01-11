@@ -2,8 +2,6 @@
   <b>ᴍ ᴀ ᴀ ʜ ɪ</b>
 </h1>
 
-![](./images/vasusen.gif)
-
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=vasusen-code&theme=dracula" alt="maahi" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="Vasusen" /> </p>
