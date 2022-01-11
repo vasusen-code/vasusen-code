@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="http://telegra.ph/file/56c59d320c9806efe4db9.mp4" alt="poster">
+  <img src="./images/vasusen.gif" alt="poster">
 </p>
   
 <h1 align="center">
