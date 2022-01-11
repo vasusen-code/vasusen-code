@@ -1,6 +1,6 @@
 
 <p align="center">
-  <video src="./images/@VideoToGifConverterBot.mp4" alt="poster">
+  <vid src="./images/@VideoToGifConverterBot.mp4" alt="poster">
 </p>
   
 <h1 align="center">
