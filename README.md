@@ -1,5 +1,8 @@
-<video src= width=180/>
 
+<p align="center">
+  <video src="./images/@VideoToGifConverterBot.mp4" alt="poster">
+</p>
+  
 <h1 align="center">
   <b>ᴍᴀᴀʜɪ</b>
 </h1>
