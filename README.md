@@ -12,4 +12,6 @@
 - Python
 - Telethon
 
+<p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge" width="150""/></a></p>
+
 
