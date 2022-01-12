@@ -10,7 +10,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
-# Languages, Tools, clouds and familiar os:
+<h1 align="center">
+  <b>Languages, Tools, clouds and familiar os:</b>
+</h1>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
