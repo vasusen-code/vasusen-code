@@ -11,7 +11,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
 # Languages, Tools, clouds and familiar os:
-  
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset="">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset="">
@@ -20,9 +21,7 @@
 <img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/CloudFlare-white?style=for-the-badge&logo=ide&logoColor=E95420" alt="">
-<img src="https://img.shields.io/badge/Telethon-gold?style=for-the-badge&logo=telethon&logoColor=white" alt="">
-
-  
+</p>
   
   
   
