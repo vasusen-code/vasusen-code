@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset="">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-F7DF1E?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/GitHub_Actions-092E20?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset="">
 <img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/CloudFlare-00C7B7?style=for-the-badge&logo=ide&logoColor=E95420" alt="">
