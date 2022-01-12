@@ -12,21 +12,10 @@
 
 # Languages, Tools, clouds and familiar os:
   
-<p><a>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" width="100""/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" width="100""/>
-<img src="https://img.shields.io/badge/Telethon-gold?style=for-the-badge&logo=telethon" width="100""/>
-<img src="https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku" width="100""/>
-<img src="https://img.shields.io/badge/Railway-grey?style=for-the-badge&logo=railway" width="100""/>
-</a></p>
-<p><a>
-<img src="https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=cloud" width="100""/>
-<img src="https://img.shields.io/badge/CloudSigma-darkred?style=for-the-badge&logo=cloud" width="100""/>
-<img src="https://img.shields.io/badge/GitHubActions-white?style=for-the-badge&logo=githubactions" width="100""/>
-<img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu" width="100""/>
-<img src="https://img.shields.io/badge/Oracle-brown?style=for-the-badge&logo=oracle" width="100""/>
-<img src="https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=termux" width="100""/>                       </a></p>                           
-                  
-
-  
-  
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
+<img src="https://img.shields.io/badge/Termux-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
