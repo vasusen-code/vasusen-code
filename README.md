@@ -10,11 +10,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=midnight-purple&custom_title=Contribution+Graph)](https://github.com/vasusen-code)
+</div>
+  
 <h1 align="center">
   <b>Languages, Tools, clouds and familiar os:</b>
 </h1>
-
-
+  
 <p align="center">
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset="">
@@ -27,7 +29,5 @@
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 </p>
   
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/vasusen-code)
-</div>
   
   
