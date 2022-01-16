@@ -2,7 +2,7 @@
   <b>ᴍ ᴀ ᴀ ʜ ɪ</b>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="Vasusen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=E95420&style=flat-square" alt="Vasusen" /> </p>
 
 <p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge" width="100""/></a></p>
 
