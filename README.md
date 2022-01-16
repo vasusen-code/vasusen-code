@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vasusen-code&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/vasusen-code" width="200"/></p>
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vasusen-code&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/vasusen-code" width="400"/></p>
 
 
   
