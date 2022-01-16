@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasusen-code&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=midnight-purple&custom_title=Contribution+Graph)](https://github.com/vasusen-code)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=dracula&custom_title=Contribution+Graph)](https://github.com/vasusen-code)
 </div>
   
 <h1 align="center">
