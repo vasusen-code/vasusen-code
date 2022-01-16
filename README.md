@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 </p>
   
-  
-  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riz4d&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/vasusen-code)
+</div>
   
   
